@@ -24,4 +24,4 @@
 
 ## 更新记录
 
-**2023-5-8** 有记录以来首次更新，重新整理了项目文档，重写了 README.md。
+**2023-5-8** 有记录以来首次更新，重新整理了项目文档，重写了 README.md [git-commit](https://github.com/lovelydayss/mAVStream/commit/04d2422bcf1995c9b5b3a588b0509b8c4deb5fb5)
